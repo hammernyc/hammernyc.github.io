@@ -5,6 +5,16 @@
     <link>https://www.hammer.nyc/tags/</link>
     <description>Recent content in Tags on David Hammer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.hammer.nyc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jun 2023 09:46:12 -0400</lastBuildDate><atom:link href="https://www.hammer.nyc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brief</title>
+      <link>https://www.hammer.nyc/tags/brief/</link>
+      <pubDate>Mon, 05 Jun 2023 09:46:12 -0400</pubDate>
+      
+      <guid>https://www.hammer.nyc/tags/brief/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

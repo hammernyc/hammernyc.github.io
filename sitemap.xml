@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hammer.nyc/about/</loc>
-    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
-  </url><url>
-    <loc>https://www.hammer.nyc/categories/</loc>
+    <loc>https://www.hammer.nyc/tags/brief/</loc>
     <lastmod>2023-06-05T09:46:12-04:00</lastmod>
   </url><url>
     <loc>https://www.hammer.nyc/</loc>
@@ -17,13 +14,16 @@
     <loc>https://www.hammer.nyc/posts/</loc>
     <lastmod>2023-06-05T09:46:12-04:00</lastmod>
   </url><url>
-    <loc>https://www.hammer.nyc/categories/short/</loc>
+    <loc>https://www.hammer.nyc/tags/</loc>
     <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/about/</loc>
+    <lastmod>2023-06-05T08:02:05-04:00</lastmod>
   </url><url>
     <loc>https://www.hammer.nyc/authors/</loc>
   </url><url>
-    <loc>https://www.hammer.nyc/series/</loc>
+    <loc>https://www.hammer.nyc/categories/</loc>
   </url><url>
-    <loc>https://www.hammer.nyc/tags/</loc>
+    <loc>https://www.hammer.nyc/series/</loc>
   </url>
 </urlset>
