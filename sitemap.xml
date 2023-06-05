@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.hammer.nyc/about/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/categories/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/posts/my-first-post/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/posts/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/categories/short/</loc>
+    <lastmod>2023-06-05T09:46:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.hammer.nyc/authors/</loc>
+  </url><url>
+    <loc>https://www.hammer.nyc/series/</loc>
+  </url><url>
+    <loc>https://www.hammer.nyc/tags/</loc>
+  </url>
+</urlset>
